@@ -9,11 +9,11 @@
 zone practicadaw.net {
 	type master;
 	file "/etc/bind/db.practicadaw.net";
-}
+};
 
 zone 0.168.192.in-addr.arpa {
 	type master;
 	file "/etc/bind/db.0.168.192";
-}
+};
 
-// 1 comentario
+//comentario desde la ramadns
